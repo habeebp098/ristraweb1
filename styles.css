@@ -17,3 +17,7 @@
 @media(max-width:700px){.ristra-logo-link{gap:5px}.ristra-logo-link img.ristra-emblem{flex-basis:39px;width:39px;height:39px}.ristra-wordmark{font-size:clamp(23px,6.5vw,28px)}}
 .ristra-logo-link{width:210px}
 @media(max-width:700px){.ristra-logo-link{width:44vw}}
+.ristra-logo-link{width:190px;justify-content:flex-start;gap:6px;padding-left:7px;padding-right:7px}
+.ristra-logo-link img.ristra-emblem{flex-basis:44px;width:44px;height:44px}
+.ristra-wordmark{color:#ba0c2f;font-size:30px;font-weight:500}
+@media(max-width:700px){.ristra-logo-link{width:44vw;max-width:184px;justify-content:flex-start;gap:4px;padding-left:6px;padding-right:6px}.ristra-logo-link img.ristra-emblem{flex-basis:36px;width:36px;height:36px}.ristra-wordmark{font-size:clamp(19px,5.9vw,25px)}}
