@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" role="img" aria-labelledby="title desc">
+  <title id="title">Robotics with trustworthy autonomy</title>
+  <desc id="desc">A research rover follows a sensor-guided route to a verified safe waypoint.</desc>
+  <path d="M17 48C25 20 55 10 84 16c20 4 32 18 48 20 23 4 40-3 59-17" fill="none" stroke="#ba0c2f" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="18" cy="47" r="5" fill="#e9c981"/>
+  <circle cx="190" cy="19" r="12" fill="#fff" stroke="#e9c981" stroke-width="4"/>
+  <path d="m184 19 4 4 8-9" fill="none" stroke="#ba0c2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M207 19h25" fill="none" stroke="#ba0c2f" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="237" cy="19" r="4" fill="#ba0c2f"/>
+  <rect x="72" y="36" width="76" height="22" rx="5" fill="#29272b"/>
+  <circle cx="87" cy="61" r="7" fill="#29272b"/><circle cx="132" cy="61" r="7" fill="#29272b"/>
+  <path d="M110 36V24" stroke="#29272b" stroke-width="5" stroke-linecap="round"/>
+  <rect x="94" y="12" width="32" height="15" rx="7.5" fill="#ba0c2f"/>
+  <circle cx="102" cy="19.5" r="2.5" fill="#fff"/><circle cx="118" cy="19.5" r="2.5" fill="#fff"/>
+  <path d="M81 44h18" stroke="#e9c981" stroke-width="3" stroke-linecap="round"/>
+  <path d="M65 67h92" stroke="#ba0c2f" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 88" role="img" aria-labelledby="title desc">
+  <title id="title">RISTRA</title>
+  <desc id="desc">A connected-systems network follows a closed autonomy loop to a verified trust point.</desc>
+  <g transform="translate(2 0)">
+    <path d="M58 13a33 33 0 1 0 18 35" fill="none" stroke="#ba0c2f" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="m68 44 9 3-8 7" fill="none" stroke="#ba0c2f" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m44 30 15 9v18l-15 9-15-9V39l15-9Z" fill="#fff" stroke="#29272b" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="44" cy="48" r="6" fill="#ba0c2f"/><circle cx="44" cy="48" r="2" fill="#e9c981"/>
+    <path d="M29 48H17m27 18v8m15-26h7" fill="none" stroke="#29272b" stroke-width="2.5"/>
+    <circle cx="14" cy="48" r="5" fill="#e9c981" stroke="#29272b" stroke-width="2"/>
+    <circle cx="44" cy="78" r="5" fill="#e9c981" stroke="#29272b" stroke-width="2"/>
+    <circle cx="76" cy="48" r="5" fill="#e9c981" stroke="#29272b" stroke-width="2"/>
+    <circle cx="64" cy="14" r="10" fill="#fff" stroke="#e9c981" stroke-width="3.5"/>
+    <path d="m59 14 3.5 3.5 6.5-7" fill="none" stroke="#ba0c2f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="105" y="63" fill="#ba0c2f" font-family="Georgia,serif" font-size="57" font-weight="700" letter-spacing="2.5">RISTRA</text>
+</svg>

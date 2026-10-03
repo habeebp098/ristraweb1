@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 112" role="img" aria-labelledby="title desc">
+  <title id="title">Center for Robotic Intelligent Systems with Trustworthy Autonomy</title>
+  <desc id="desc">A mobile research robot follows an autonomy loop to a verified waypoint, beside the center name and its RISTRA acronym.</desc>
+  <g transform="translate(4 8) scale(1.02)">
+    <path d="M17 55A33 33 0 0 1 72 27" fill="none" stroke="#ba0c2f" stroke-width="4" stroke-linecap="round"/>
+    <path d="M69 17 77 25 67 28" fill="none" stroke="#ba0c2f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="17" cy="55" r="4" fill="#e9c981"/>
+    <circle cx="77" cy="17" r="10" fill="#fff" stroke="#e9c981" stroke-width="4"/>
+    <path d="m72 17 4 4 7-8" fill="none" stroke="#ba0c2f" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="28" y="54" width="40" height="17" rx="3" fill="#29272b"/>
+    <circle cx="36" cy="74" r="6" fill="#29272b"/><circle cx="61" cy="74" r="6" fill="#29272b"/>
+    <path d="M48 54V37" fill="none" stroke="#29272b" stroke-width="5" stroke-linecap="round"/>
+    <rect x="37" y="27" width="22" height="12" rx="5" fill="#ba0c2f"/>
+    <circle cx="43" cy="33" r="2" fill="#fff"/><circle cx="53" cy="33" r="2" fill="#fff"/>
+    <path d="M33 61h14" stroke="#e9c981" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="105" y="35" fill="#ba0c2f" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">RISTRA</text>
+  <text x="105" y="63" fill="#29272b" font-family="Georgia,serif" font-size="22" font-weight="700">Center for Robotic Intelligent Systems</text>
+  <text x="105" y="88" fill="#29272b" font-family="Georgia,serif" font-size="22" font-weight="700">with Trustworthy Autonomy</text>
+</svg>

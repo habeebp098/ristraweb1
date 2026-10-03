@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 72" role="img" aria-labelledby="title">
+  <title id="title">RISTRA</title>
+  <g transform="translate(3 4)">
+    <path d="M12 45A26 26 0 1 1 49 13" fill="none" stroke="#ba0c2f" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="12" cy="45" r="3.5" fill="#e9c981"/>
+    <circle cx="50" cy="12" r="6" fill="#e9c981" stroke="#fff" stroke-width="2"/>
+    <text x="17" y="53" fill="#29272b" font-family="Georgia,serif" font-size="47" font-weight="700">R</text>
+  </g>
+  <text x="79" y="51" fill="#29272b" font-family="Georgia,serif" font-size="43" font-weight="700" letter-spacing="4">RISTRA</text>
+  <path d="M81 62h250" stroke="#ba0c2f" stroke-width="3"/>
+</svg>
