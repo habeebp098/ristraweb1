@@ -11,3 +11,9 @@
 .ristra-logo-link img.ristra-generated-logo{flex:none;width:100%;height:auto;max-width:none}
 .unm-logo.unm-logo-right{left:auto;right:max(calc((100% - 1240px)/2),6%)}
 @media(max-width:700px){.ristra-logo-link{left:6%;width:44vw;max-width:200px;height:49px;padding:3px 5px}.unm-logo.unm-logo-right{left:auto;right:6%;width:44vw;max-width:200px;height:49px}.unm-logo.unm-logo-right img{left:-40vw;top:-11vw;width:122vw}}
+.ristra-logo-link{gap:8px}
+.ristra-logo-link img.ristra-emblem{display:block;flex:0 0 48px;width:48px;height:48px;max-width:none;object-fit:contain}
+.ristra-wordmark{color:var(--cherry);font:500 32px/1 var(--slab);letter-spacing:.015em;white-space:nowrap}
+@media(max-width:700px){.ristra-logo-link{gap:5px}.ristra-logo-link img.ristra-emblem{flex-basis:39px;width:39px;height:39px}.ristra-wordmark{font-size:clamp(23px,6.5vw,28px)}}
+.ristra-logo-link{width:210px}
+@media(max-width:700px){.ristra-logo-link{width:44vw}}
