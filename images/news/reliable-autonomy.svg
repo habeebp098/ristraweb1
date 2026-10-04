@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="News image placeholder: autonomy research">
+<rect width="640" height="420" fill="#f4e9ec"/><path d="M0 320 110 260l105 35 100-120 110 90 94-67 121 84v138H0Z" fill="#ba0c2f" opacity=".14"/>
+<g fill="none" stroke="#ba0c2f" stroke-width="2"><circle cx="330" cy="180" r="87" opacity=".62"/><circle cx="330" cy="180" r="57" stroke-dasharray="5 9" opacity=".7"/><path d="M72 180h112m290 0h94M330 47v45m0 176v57" opacity=".55"/></g>
+<g fill="#25232a"><rect x="306" y="151" width="48" height="54" rx="7"/><path d="M330 205v50m0 0-29 27m29-27 29 27" fill="none" stroke="#25232a" stroke-width="9" stroke-linecap="round"/><circle cx="330" cy="169" r="8" fill="#ba0c2f"/></g>
+<text x="30" y="40" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#25232a">RISTRA / AUTONOMY RESEARCH</text>
+<text x="30" y="387" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#25232a" opacity=".72">NEWS IMAGE PLACEHOLDER · 01</text>
+</svg>

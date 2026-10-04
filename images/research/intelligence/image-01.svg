@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 390" role="img" aria-label="Placeholder illustration for learning & decisions">
+<rect width="640" height="390" fill="#ececf1"/>
+<path d="M0 300 110 226l82 36 104-126 96 87 98-70 150 107v130H0Z" fill="#5d6172" opacity=".1"/>
+<g fill="none" stroke="#5d6172" stroke-width="2" opacity=".75"><circle cx="294" cy="175" r="84"/><circle cx="294" cy="175" r="57" stroke-dasharray="4 9"/><path d="M95 205h135m180 0h135M320 65v41m0 138v75"/></g>
+<g fill="#ba0c2f"><rect x="266" y="145" width="56" height="60" rx="8"/><circle cx="294" cy="164" r="8" fill="#5d6172"/><path d="M320 205v49m0 0-30 29m30-29 31 29" fill="none" stroke="#ba0c2f" stroke-width="9" stroke-linecap="round"/></g>
+<g fill="#5d6172"><circle cx="95" cy="205" r="8"/><circle cx="545" cy="205" r="8"/><circle cx="320" cy="65" r="8"/><circle cx="320" cy="319" r="8"/></g>
+<text x="32" y="42" fill="#ba0c2f" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">RISTRA / LEARNING & DECISIONS</text>
+<text x="32" y="357" fill="#ba0c2f" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" opacity=".7">RESEARCH IMAGE PLACEHOLDER · 01</text>
+</svg>

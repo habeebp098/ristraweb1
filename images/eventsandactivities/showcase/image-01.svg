@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Placeholder graphic for research showcase">
+<rect width="600" height="380" fill="#f4e9eb"/>
+<path d="M0 275 130 190l97 48 105-115 117 80 151-96v273H0Z" fill="#ba0c2f" opacity=".12"/>
+<path d="M0 315 142 238l105 45 97-80 103 44 153-96" fill="none" stroke="#ba0c2f" stroke-width="2" opacity=".55"/>
+<circle cx="272" cy="155" r="72" fill="none" stroke="#ba0c2f" stroke-width="2" opacity=".55"/>
+<circle cx="272" cy="155" r="48" fill="none" stroke="#25232a" stroke-width="1.5" stroke-dasharray="4 8" opacity=".55"/>
+<rect x="247" y="128" width="50" height="48" rx="8" fill="#25232a"/>
+<circle cx="272" cy="152" r="10" fill="#ba0c2f"/>
+<path d="M300 176v32m0 0-28 25m28-25 29 25m-29-25-18 36m18-36 19 36" fill="none" stroke="#25232a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="272" cy="152" r="29" fill="none" stroke="#ba0c2f" stroke-width="1.5" opacity=".8"/>
+<text x="34" y="44" fill="#25232a" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">RISTRA · RESEARCH SHOWCASE</text>
+<text x="34" y="335" fill="#25232a" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" opacity=".72">EVENT IMAGE PLACEHOLDER · 01</text>
+<path d="M520 48h38m-19-19v38" stroke="#ba0c2f" stroke-width="2" opacity=".8"/>
+</svg>

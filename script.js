@@ -1,16 +1,19 @@
 const nav = document.querySelector('.primary-nav');
 const toggle = document.querySelector('.nav-toggle');
-toggle.addEventListener('click', () => {
-  const open = toggle.getAttribute('aria-expanded') === 'true';
-  toggle.setAttribute('aria-expanded', String(!open));
-  nav.classList.toggle('open', !open);
-});
-nav.querySelectorAll('#nav-links a').forEach(link => link.addEventListener('click', () => {
-  toggle.setAttribute('aria-expanded', 'false');
-  nav.classList.remove('open');
-}));
+if (nav && toggle) {
+  toggle.addEventListener('click', () => {
+    const open = toggle.getAttribute('aria-expanded') === 'true';
+    toggle.setAttribute('aria-expanded', String(!open));
+    nav.classList.toggle('open', !open);
+  });
+  nav.querySelectorAll('#nav-links a').forEach(link => link.addEventListener('click', () => {
+    toggle.setAttribute('aria-expanded', 'false');
+    nav.classList.remove('open');
+  }));
+}
 
-document.querySelector('#year').textContent = new Date().getFullYear();
+const year = document.querySelector('#year');
+if (year) year.textContent = new Date().getFullYear();
 
 const revealItems = document.querySelectorAll('.reveal');
 if ('IntersectionObserver' in window) {
@@ -28,6 +31,7 @@ if ('IntersectionObserver' in window) {
 }
 
 const carousel = document.querySelector('.hero-slides');
+if (carousel) {
 const slides = [...carousel.querySelectorAll('.hero-slide')];
 const indicators = [...document.querySelectorAll('.slide-indicator')];
 const counter = document.querySelector('.slide-count');
@@ -83,3 +87,4 @@ reducedMotion.addEventListener?.('change', event => {
   startTimer();
 });
 startTimer();
+}
