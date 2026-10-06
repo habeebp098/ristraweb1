@@ -1,5 +1,5 @@
 # Faculty and staff images
 
-Replace `avatar-01.svg` through `avatar-06.svg` with approved faculty/staff headshots when available. Keep the filenames or update the matching `src` values in `faculty-staff.html`.
+The faculty page uses official faculty portraits hosted on UNM's RAISE website. The portrait URLs are in `faculty-staff.html`; this folder is available for locally stored, approved profile images later.
 
-The current files are generic, featureless SVG placeholders; they do not depict real people.
+The `avatar-*.svg` files are generic placeholders and are not used for the listed faculty profiles.
